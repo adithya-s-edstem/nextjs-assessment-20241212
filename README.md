@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Completed
+- Initial DB Setup with necesary tables.
+- Login Auth provider.
+
 ## Getting Started
 
 First, run the development server:
